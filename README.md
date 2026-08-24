@@ -18,7 +18,10 @@
 ### hi! i'm mond
 
 compscie at bicol university, philippines  
-i do sw and ml projects that are useless but they work sometimes
+i do sw and ml projects that are useless but they work sometimes  
+  
+"the right code wont run in the wrong .env file"
+                                   - someone on the black app
 </p>
 
 <br clear="left">
