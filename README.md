@@ -1,7 +1,11 @@
 
 ### hi! i'm mond
 
+21 M Albay PH  
 compscie at bicol university, philippines  
   
 I do software projects using vue/react + inertia + laravel + postgres/mySQL for web, and kotlin/react native + firebase for mobile.  
-For ml projects, I mainly focus on computer vision using python, yolo family, unet, mobileunet, mobilenetv3, and etc ;>
+For ml projects, I mainly focusig on computer vision using python, yolo family, unet, mobileunet, mobilenetv3, and things like that ;>  
+
+You can view my work by clicking the links in the about section of my repos, or you can just visit my [portfolio](https://dev-rcbalingbing.tech).  
+I also upload some of my simple research projects on [zenodo](https://zenodo.org/), and you can find my datasets and ml models on my [hugging face account](https://huggingface.co/ml-remunn) account.
